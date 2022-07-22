@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheAp0cryphal
-- 👀 I’m interested in Debating / Gaming / Singing
+- 👀 I’m interested in AI / Data Mining / Web D / Android D / HCI / Blockchain
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
