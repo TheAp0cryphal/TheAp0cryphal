@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TheAp0cryphal
-- 👀 I’m interested in AI / Data Mining / Web D / Android D / HCI / Blockchain
+- 👀 I’m proficient at Machine Learning | Android Development | HCI | Web Developer | UI / UX | Blockchain | Computer Vision
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ML projects
 
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
