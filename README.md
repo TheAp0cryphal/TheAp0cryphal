@@ -1,3 +1,7 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Tanushk Sharma🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+
+
 - 👋 Hi, I’m @TheAp0cryphal
 - 👀 I’m proficient at Machine Learning | Android Development | HCI | Web Developer | UI / UX | Blockchain | Computer Vision
 - 🌱 I’m currently learning Kotlin
