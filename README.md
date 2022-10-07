@@ -1,5 +1,5 @@
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Tanishk%20Sharma&text2=tanishks@sfu.ca%text&width=1200&height=400)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Tanishk%20Sharma&width=800&height=400)]
 
 
 - 👋 Hi, I’m @TheAp0cryphal
