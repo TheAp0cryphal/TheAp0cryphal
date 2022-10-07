@@ -21,11 +21,13 @@
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheAp0cryphal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight" alt="TheAp0cryphal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&&theme=tokyonight" alt="rishavchanda" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&&theme=tokyonight" alt="TheAp0cryphal" /></p> 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbobus)](https://github.com/anuraghazra/github-readme-stats)
  
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
