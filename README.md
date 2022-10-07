@@ -23,7 +23,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheAp0cryphal" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight" alt="TheAp0cryphal" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&&theme=tokyonight" alt="TheAp0cryphal" /></p> 
  
