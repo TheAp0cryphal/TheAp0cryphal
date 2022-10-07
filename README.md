@@ -21,11 +21,9 @@
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheAp0cryphal" /></p>
-
-<span style="white-space: pre-line">@Model.CommentText</span>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight" alt="TheAp0cryphal" /></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheAp0cryphal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&&theme=tokyonight" alt="TheAp0cryphal" /></p> 
  
