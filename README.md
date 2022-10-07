@@ -1,5 +1,5 @@
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=TheAp0cryphal&width=1200&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=TheAp0cryphal&width=1200&height=400)
 
 
 - 👋 Hi, I’m @TheAp0cryphal
