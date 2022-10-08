@@ -21,11 +21,12 @@
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight" alt="TheAp0cryphal" /></p>
- 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheAp0cryphal" /></p>
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&&theme=tokyonight" alt="TheAp0cryphal" /></p> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight)]
  
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
