@@ -22,8 +22,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight)]
  
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
