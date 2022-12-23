@@ -14,7 +14,8 @@
  <a href="https://www.haskell.org/"><img src="https://github.com/get-icon/geticon/blob/master/icons/haskell-icon.svg" alt="Spring" width="40" height="40"></a> <a href="https://flask.palletsprojects.com/en/2.2.x/" ><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Spring" width="40" height="40"></a>
  
  
-
+ 
+<a href="https://www.linkedin.com/in/tanishk-sharma-8aa826183/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
@@ -24,8 +25,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
- 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
  
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
