@@ -17,7 +17,9 @@
 
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
+![Snake animation](https://github.com/TheAp0cryphal/github-readme/blob/output/github-contribution-snake.svg)
 
+ 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
