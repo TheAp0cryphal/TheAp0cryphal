@@ -17,7 +17,7 @@
 
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
-![Snake animation](https://github.com/TheAp0cryphal/github-readme/blob/output/github-contribution-snake.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
  
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) 
