@@ -1,5 +1,8 @@
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=TheAp0cryphal&width=1200&height=400)
+ 
+ 
+<a href="https://www.linkedin.com/in/tanishk-sharma-8aa826183/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <h1 align="center">Hi 👋, I'm Tanishk Sharma</h1>
 
@@ -12,10 +15,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
  <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40" height="40"></a> 
  <a href="https://www.haskell.org/"><img src="https://github.com/get-icon/geticon/blob/master/icons/haskell-icon.svg" alt="Spring" width="40" height="40"></a> <a href="https://flask.palletsprojects.com/en/2.2.x/" ><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Spring" width="40" height="40"></a>
- 
- 
- 
-<a href="https://www.linkedin.com/in/tanishk-sharma-8aa826183/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
   
 <!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
