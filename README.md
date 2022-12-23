@@ -25,6 +25,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
  
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+ 
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
