@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
  
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) 
+<!----  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight)  --->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAp0cryphal&&theme=tokyonight)](https://git.io/streak-stats)
 </div>
