@@ -14,8 +14,10 @@
  <a href="https://www.haskell.org/"><img src="https://github.com/get-icon/geticon/blob/master/icons/haskell-icon.svg" alt="Spring" width="40" height="40"></a> <a href="https://flask.palletsprojects.com/en/2.2.x/" ><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Spring" width="40" height="40"></a>
 
   
-<!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!---- [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)---><
+<!---- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> ---><
+
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=theap0cryphal&hide=Jupyter%20%Notebook,Makefile&langs_count=10&size_weight=0.3&count_weight=0.7&layout=donut&theme=chartreuse-dark" alt="ovi" />
 
  
 <!----  ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight)  --->
