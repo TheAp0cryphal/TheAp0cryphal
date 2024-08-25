@@ -19,7 +19,7 @@
 -->
 
 <!-- GitHub Top Languages -->
-[[![Tanishk's GitHub](<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAp0cryphal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Tanishk's GitHub Stats"/>)]](https://github-readme-stats.vercel.app/api/top-langs/?username=theap0cryphal&hide=Jupyter%20Notebook,Makefile&langs_count=10&size_weight=0.3&count_weight=0.7&layout=donut&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theap0cryphal&hide=Jupyter%20Notebook,Makefile&langs_count=10&size_weight=0.3&count_weight=0.7&layout=donut&theme=chartreuse-dark"/>
 
 <!-- Commented out GitHub Stats -->
 <!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) -->
