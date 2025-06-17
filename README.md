@@ -26,10 +26,7 @@
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theap0cryphal&hide=Jupyter%20Notebook,Makefile&langs_count=10&size_weight=0.3&count_weight=0.7&layout=donut&theme=chartreuse-dark"/>
 
-<!-- Commented out GitHub Stats -->
 <!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) -->
-
-<!-- GitHub Streak -->
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)](https://git.io/streak-stats)
 
 <!---
