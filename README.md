@@ -28,7 +28,7 @@
 
 <!-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&locale=en&theme=tokyonight) -->
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheAp0cryphal&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 <!---
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
