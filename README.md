@@ -22,6 +22,7 @@
 [![Tanishk's GitHub](https://activity-graph.herokuapp.com/graph?username=TheAp0cryphal&&theme=xcode)](https://github.com/TheAp0cryphal)
 -->
 
+<h3 align="center">🌟 GitHub Stats and Activity 🌟</h3>
 <!-- GitHub Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theap0cryphal&hide=Jupyter%20Notebook,Makefile&langs_count=10&size_weight=0.3&count_weight=0.7&layout=donut&theme=chartreuse-dark"/>
 
@@ -35,10 +36,3 @@
 TheAp0cryphal/TheAp0cryphal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<h3 align="center">🌟 GitHub Stats and Activity 🌟</h3>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheAp0cryphal&show_icons=true&theme=dark&hide_border=true" alt="Archit Verma's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAp0cryphal&theme=dark&hide_border=true" alt="TheAp0cryphal's GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAp0cryphal&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</div>
