@@ -1,6 +1,10 @@
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=TheAp0cryphal&width=1200&height=400)
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=TheAp0cryphal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanishk Sharma <a href="https://www.linkedin.com/in/tanishk-sharma-8aa826183/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </h1>
 
 - 👀 I’m proficient at Machine Learning | Android Development | HCI | Web Developer | UI / UX | Blockchain | Computer Vision
