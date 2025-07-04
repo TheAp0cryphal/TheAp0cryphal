@@ -1,5 +1,5 @@
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=TheAp0cryphal&width=1200&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=TheAp0cryphal%20🗿&width=1200&height=400)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TheAp0cryphal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
